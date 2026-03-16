@@ -12,7 +12,6 @@ Google Colab
 vendas_eventos
 │
 ├── vendas_eventos.csv
-├── gerentes.xlsx
 ├── analise_vendas_eventos.ipynb
 └── README.md
 
